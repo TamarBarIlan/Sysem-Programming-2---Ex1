@@ -8,5 +8,4 @@
 [ADT_definition.pdf](ADT_definition.pdf) 
 המצורף.
 
-
-* AdptArray.c - מימוש הפונקציות הנדרשות. 
+ 
